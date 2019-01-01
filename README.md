@@ -1,2 +1,2 @@
 # Fit2Go
-Fitness application with step counter.
+Fitness application for Android with step counter.
